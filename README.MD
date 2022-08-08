@@ -18,3 +18,7 @@ O projeto tem seu banco de dados em nuvem gra√ßas ao mongodb atlas, nas configu√
 
 <img witdh=400 src="https://www.strongdm.com/hubfs/Technology%20Images/603c5eb831820c3ce6a8f057_603a1586fa052d17fc2a6929_MongoDBAtlas.png">
 
+https://github.com/hatuanem199801/bear-express
+
+https://github.com/acauanrr/crud-nodejs-aula/blob/main/src/server.js
+
