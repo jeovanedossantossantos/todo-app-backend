@@ -2,13 +2,13 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "src/loader.js",
+  "main": "loader.js",
   "scripts": {
     "dev": "nodemon",
     "start": "node loader.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jeovane dos Santos Santos",
   "license": "ISC",
   "dependencies": {
     "body-parser": "1.15.2",
