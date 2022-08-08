@@ -7,9 +7,11 @@
     "node": "14.x"
   },
   "scripts": {
-    "dev": "nodemon",
-    "start": "node index.js"
+    
+    "start": "node index.js",
+    "dev": "nodemon"
   },
+  
   "keywords": [],
   "author": "Jeovane dos Santos Santos",
   "license": "ISC",
