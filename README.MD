@@ -15,5 +15,6 @@
 O projeto tem seu banco de dados em nuvem graças ao mongodb atlas, nas configuções existe um arquivo dev_db que usa um banco local para o desenvovimento e o pro_db que usa o banco do servidor mongo atlas.
 
 <img witdh=400 src="https://arquivo.devmedia.com.br/marketing/img/artigo-nosql-hospedando-bancos-de-dados-mongodb-31056.png"/>
+
 <img witdh=400 src="https://www.strongdm.com/hubfs/Technology%20Images/603c5eb831820c3ce6a8f057_603a1586fa052d17fc2a6929_MongoDBAtlas.png">
 
