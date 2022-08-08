@@ -2,10 +2,10 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "loader.js",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon",
-    "start": "node loader.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Jeovane dos Santos Santos",
