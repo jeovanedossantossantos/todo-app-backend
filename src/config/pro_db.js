@@ -5,10 +5,10 @@ require('dotenv').config()
 
 mongoose.set('runValidators', true);
 module.exports = mongoose.connect(process.env.DB_MONGO_ATLAS, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-    useFindAndModify: false,
-    useCreateIndex: true,
+   // useNewUrlParser: true,
+  // useUnifiedTopology: true,
+  // useFindAndModify: true,
+  // useCreateIndex: true,
   }).then(() => {
     console.log("Conectado com sucesso")
 })
